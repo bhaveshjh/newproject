@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit name="Repo">
+        <packages>
+          <package value="com.newproject.entities.User" />
+          <package value="com.newproject.dto.UserDTO" />
+          <package value="com.newproject.repo" />
+          <package value="com.newproject.service" />
+          <package value="com.newproject.controller" />
+          <package value="com.newproject.entities" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>
